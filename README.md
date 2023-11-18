@@ -1,6 +1,10 @@
 # DataPreparationAndVisualization-Project
 ## Predict Student's dropout and academic success
 
+### About Project:
+The project is done on the "Data Preparation and Visualization" subject, first semester Master's studies
+
+### About Dataset used:
 The dataset used for this project contains data from a higher education institution on various variables related to undergraduate students, including demographics, social-economic factors, and academic performance, to investigate the impact of these factors on student dropout and academic success
 
 - **Marital status:** The marital status of the student. (Categorical)
